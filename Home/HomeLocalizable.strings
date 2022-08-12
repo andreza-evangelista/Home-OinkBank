@@ -1,0 +1,28 @@
+/* 
+  HomeLocalizable.strings
+  CRUD MVVM
+
+  Created by user217584 on 05/07/22.
+  
+*/
+
+"Olá" = "Olá, TESTE!";
+"Agência Conta" = "Agência: 1-9  Conta: 1-2";
+"R$" = "R$ ";
+"Saldo" = "0,00";
+"Pix" = "Área Pix";
+"Pagar" = "Pagar";
+"Transferir" = "Transferir";
+"Cartões" = "Meus cartões";
+"Ofertas" = "Nossas ofertas";
+"Imprevisto" = "Teve um imprevisto e não tem dinheiro?";
+"Faça como" = "Faça como Fred Rico!";
+"Solicitar" = "Solicitar emprestimo";
+"Home" = "Home";
+"Extrato" = "Extrato";
+"Ferramentas" = "Ferramentas";
+"Seguros" = "Seguros";
+"Não deixe" = "Não deixe seu dinheiro para os outros, cuide de você!";
+"Seguro de vida" = "Seguro de vida";
+
+
